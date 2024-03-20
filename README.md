@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Brenno Nogueirs da Silva
-
+- 👋 Hi, I’m Brenno Nogueirs da Silva✨
+- 💻 Estudante Do IFCE(Tecnico Integrado em Informática)✨
+- 🏐 Atleta de Voleibol do Ceara Sporting Club✨
+-  
+-
 
 
 <!---
