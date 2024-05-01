@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=header"/>
 
-### hello, I’m Brenno Nogueira<h2>
+### hello! I am Brenno Nogueira 🙋🏾‍♂️<h2>
 - 💻 IFCE Student (Integrated IT Technician)
 - 👨🏾‍💻 Studying java and javaScript
 - 🏐 Volleyball athlete from Ceara Sporting Club
@@ -13,7 +13,7 @@
 </div>
 <br><br>
 
-<h3 align="left">Meios de contato:</h3>
+<h3 align="left">Converse comigo:</h3>
 <div>
 <a href = "mailto:brennonogueira030@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/brenno.nogueiraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
