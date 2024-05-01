@@ -1,16 +1,13 @@
-### Hi there 👋
+### hello, I’m Brenno Nogueira<h2>
+- 💻 IFCE Student (Integrated IT Technician)
+- 👨🏾‍💻 Studying java and javaScript
+- 🏐 Volleyball athlete from Ceara Sporting Club
 
-<!--
-**Brenno030/Brenno030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brenno030&theme=dark" />
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brenno030&theme=dark" />
+</div>
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
