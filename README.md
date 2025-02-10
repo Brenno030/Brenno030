@@ -4,6 +4,7 @@
 - 💻 IFCE Student (Integrated IT Technician)
 - 👨🏾‍💻 Studying java and javaScript
 - 🏐 Volleyball athlete from Ceara Sporting Club
+- Sou tímido:3
 
 ##
 
