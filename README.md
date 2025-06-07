@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=383838&height=120&section=header"/>
 
-### hello! I am Brenno Nogueira 🙋🏾‍♂️<h2>
-- 💻 IFCE Student (Integrated IT Technician)w
-- 🏐 Volleyball athlete from Ceara Sporting Club
+### Olá! Me chamo Brenno Nogueira 🙋🏾‍♂️<h2>
+- 💻 IFCE Student (Integrated IT Technician)
 
 ##
 
